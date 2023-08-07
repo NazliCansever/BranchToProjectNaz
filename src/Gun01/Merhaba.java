@@ -15,5 +15,8 @@ public class Merhaba {
         }
 
         System.out.println("merhaba 3 ogrt");
+
+        System.out.println("nazli1");
+
     }
 }
